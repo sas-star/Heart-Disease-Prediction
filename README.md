@@ -65,9 +65,7 @@ Source: [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/
 ---
 
 ## 👩‍💻 About Me
-3rd year BE CSE student at Sathyabama University,
-interested in Data Science and Data Analytics.
-Open to internship opportunities!
-
+Sasmita .S
+Ai engineer 
 🔗 [LinkedIn] www.linkedin.com/in/sasmita-senthil-1b72a4324
 
